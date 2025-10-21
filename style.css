@@ -1,0 +1,139 @@
+
+body
+{
+  background-color:  #050214; 
+  background-image: linear-gradient(to right, #050214, #1e0220); 
+  color: white;
+  align-content: center;
+  align-items: center;
+}
+
+/* navigation bar styling */
+.navbar
+{
+    color: white;
+    background: black;
+
+}
+
+.navbar :active
+{
+    color: rgb(11, 0, 37);
+    background: white;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.navbar a
+{
+    color:white;
+}
+
+.navbar a:hover
+{
+    color: white;
+}
+
+/* webpage content styling */
+
+.introduction
+{
+    text-align: left;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    color: white;
+}
+
+.profile
+{
+    height: 480px;
+    width: 480px;
+    border-radius: 50%;
+    border-width: 100px;
+    border-color: white;
+}
+
+.info
+{
+    color: white;
+    float: right;
+    width: 50%;
+}
+
+.table-container 
+{
+    display: flex; 
+    justify-content: space-around; 
+    gap: 10px; 
+}
+
+.table-container table 
+{
+width: 100%; 
+
+}
+
+.contact
+{
+    display: flex; 
+    text-align: right;
+}
+
+.educ::after
+{
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.langNeduc
+{
+    color: white;
+}
+
+
+.others
+{
+    color: white;
+}
+
+/* Css for Certificate Location */
+
+.certificate_table
+{
+  align-content: center;
+  align-items: center;
+  margin-left: 40px;
+  width: 50%;
+  padding: 10px;
+}
+
+
+/* Css for Certificates */
+
+.zuitt_bootcamp
+{
+    color: white;
+}
+
+.zuitt_cert
+{
+    height: 180px;
+    width: 300px;
+    color: white;
+}
+
+.intro_cybersecurity
+{
+    color: white;
+}
+
+.cybersecurity_cert
+{
+    height: 180px;
+    width: 300px; 
+
+}
