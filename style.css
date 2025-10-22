@@ -6,6 +6,9 @@ body
   color: white;
   align-content: center;
   align-items: center;
+  font-family: the-seasons, sans-serif;
+  font-style: normal;
+  font-weight: 300;
 }
 
 /* navigation bar styling */
@@ -45,9 +48,6 @@ body
     align-content: center;
     flex-direction: column;
     color: white;
-    font-family: the-seasons, sans-serif;
-    font-style: normal;
-    font-weight: 300;
 }
 
 .profile
@@ -141,3 +141,4 @@ width: 100%;
 
 
 }
+
