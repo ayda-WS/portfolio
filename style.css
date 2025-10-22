@@ -9,8 +9,8 @@ body
   font-family: the-seasons, sans-serif;
   font-style: normal;
   font-weight: 300;
-  font-family: "Bodoni Moda", serif;
-  font-optical-sizing: auto;
+  font-family: "Manjari", sans-serif;
+  font-style: normal;
 
 }
 
@@ -51,8 +51,8 @@ body
     align-content: center;
     flex-direction: column;
     color: white;
-    font-family: "Bodoni Moda", serif;
-    font-optical-sizing: auto;
+    font-family: "Manjari", sans-serif;
+    font-style: normal;
 }
 
 .profile
@@ -146,5 +146,6 @@ width: 100%;
 
 
 }
+
 
 
