@@ -8,7 +8,7 @@ body
   align-items: center;
   font-family: the-seasons, sans-serif;
   font-style: normal;
-  font-weight: 300;
+  font-weight: 500;
   font-family: "NTR", sans-serif;
   font-style: normal;
 }
@@ -55,6 +55,7 @@ body
     color: white;
     font-family: "NTR", sans-serif;
     font-style: normal;
+    font-weight: 300;
 }
 
 }
@@ -150,6 +151,7 @@ width: 100%;
 
 
 }
+
 
 
 
